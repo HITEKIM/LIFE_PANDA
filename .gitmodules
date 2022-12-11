@@ -1,0 +1,3 @@
+[submodule "packages/front/panda_front"]
+	path = packages/front/panda_front
+	url = https://HITEKIM@github.com/HITEKIM/LIFE_PANDA_REACT.git
